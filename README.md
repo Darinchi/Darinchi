@@ -26,19 +26,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupiter Notebook" alt="Jupiter Notebook" width="40" height="40"/>&nbsp;
  
 </div>
-
-
-
-
-
-- Python и его библиотеки: Pandas, Statsmodel; NumPy, math, SciPy; Matplotlib, seaborn, plotly; sklearn;
- 
-  
-- среда программирования Jupyter Notebook;
-
-- язык запросов SQL (ClickHouse, PostgreSQL);
-
-- BI-системы Tableau, DataLens, Superset.
-
-
-
