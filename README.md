@@ -27,7 +27,7 @@
 - Работать с ключевыми метриками продукта: ARPU, ARPPU, LTV, retention, conversion, churn rate
 - Автоматизировать процессы через Airflow
   
-### :hammer_and_wrench: Languages and Tools : Основные инструменты, которыми я владею:
+### :hammer_and_wrench: Основные инструменты, которыми я владею:
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="30"/>&nbsp;
